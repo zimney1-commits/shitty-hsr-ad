@@ -1,0 +1,26 @@
+body{
+background-color: #000033;
+}
+h1{
+color: White;
+font-family: "Lucida Console", monospace;
+}
+h2{
+color: White;
+font-family: Verdana, sans-serif;
+}
+h4{
+color: White;
+font-family: "Lucida Console", monospace;
+}
+h6{
+color: DarkGray;
+font-family: "Lucida Handwriting", cursive;
+}
+p{
+color: White;
+font-family: "Lucida Console", monospace;
+}
+a{
+color: hotpink;
+}
